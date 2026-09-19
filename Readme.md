@@ -22,7 +22,7 @@
 
 *  **Step 1 – Prepare the card**                                                                       
 * **Step 2 – Design the card**  
-* **Step 3 – Place the LED                                                              ![][image1]**  
+* **Step 3 – Place the LED                                                             
 * **Step 4 – Fix the battery**  
 * **Step 5 – Make the electrical connections**  
 * **Step 6 – Create the switch**  
@@ -31,7 +31,8 @@
 
 
   **4.WORKING PRINCIPLE**  
- The electric greeting card works on the principle of a closed electrical circuit.  
+ The electric greeting card works on the principle of a closed electrical circuit.
+![simulation](simulation.jpg)
      When the card's switch is pressed or the card is opened in a way that closes the hidden contact:
 
 * 1\. The battery supplies electrical energy.  
