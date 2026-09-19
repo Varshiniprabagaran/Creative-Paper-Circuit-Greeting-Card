@@ -73,7 +73,7 @@ Final testing
 
 * The electric greeting card was successfully designed and assembled using a battery-powered LED circuit. When the switch is activated, the electrical circuit is completed and the LED illuminates, producing an attractive visual effect.
 
-**![][image2]**
+![result].(https://github.com/Varshiniprabagaran/Creative-Paper-Circuit-Greeting-Card/blob/main/Result.jpg)
 
 **7\. CONCLUSION** 
 
